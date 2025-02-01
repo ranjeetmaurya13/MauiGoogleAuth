@@ -6,7 +6,6 @@ namespace MAUIGoogleAuth.GoogleAuth
         public Task<GoogleUserModel> AuthenticateAsync();
         public Task<GoogleUserModel> GetCurrentUserAsync();
         public Task LogoutAsync();
-
     }
 }
 
