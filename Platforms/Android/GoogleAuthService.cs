@@ -23,7 +23,7 @@ namespace MAUIGoogleAuth.Platforms.Android
 
             //Google Auth Option
             _gso = new GoogleSignInOptions.Builder(GoogleSignInOptions.DefaultSignIn)
-                            .RequestIdToken("673091075895-9ui240uik9blim1m2e1cc2k00g3oovtq.apps.googleusercontent.com")
+                            .RequestIdToken("WebClientId")
                             .RequestEmail()
                             .RequestId()
                             .RequestProfile()
