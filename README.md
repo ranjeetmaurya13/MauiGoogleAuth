@@ -21,8 +21,7 @@ Authentication Enable -> Sing-in method -> Edit Google -> <br>
 
 Go Web SDK Configuration<br>
 Get Web client ID
-<img width="1451" alt="Screenshot 2025-02-01 at 8 16 08 PM" src="https://github.com/user-attachments/assets/9c082abf-a87e-4c7b-aa94-4408c26c2484" />
-
+<img width="1446" alt="Screenshot 2025-02-01 at 8 16 08 PM" src="https://github.com/user-attachments/assets/415329c7-5a9a-4b9a-97fa-53f5c93baae8" />
 
 **SHA1:**
 
